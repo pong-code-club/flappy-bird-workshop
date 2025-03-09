@@ -6,7 +6,7 @@ public class CameraScript : MonoBehaviour
 {
     public GameObject MyBird;
     public Camera MyCamera;
-    public float DesiredCameraWidth;
+    //public float DesiredCameraWidth;
 
     void Start()
     {
